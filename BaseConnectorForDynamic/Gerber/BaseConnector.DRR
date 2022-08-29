@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: BaseConnector.PcbDoc   2022/8/29  21:34:09
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top1 to Bottom2
+ASCII RoundHoles File : BaseConnector-RoundHoles.TXT
+ASCII SlotHoles File : BaseConnector-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             2         PTH        0.04inch (1.01mm)
+T2      24mil (0.6mm)                                             Slot              4         PTH        1.47inch (37.22mm)
+T3      26mil (0.65mm)                                            Round             2         PTH        0.23inch (5.78mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              8
+
+Total Processing Time (hh:mm:ss) : 00:00:00
