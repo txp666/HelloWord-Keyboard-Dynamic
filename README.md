@@ -1,7 +1,3 @@
----
-typora-root-url: Images
----
-
 # HelloWord-Keyboard-Dynamic
  瀚文键盘Dynamic模块复刻
 
@@ -13,4 +9,4 @@ typora-root-url: Images
 
 以及本项目中的 BaseConnectorForDynamic  为Type-c转换小板  如图：
 
-![1](/../README/1.jpg)
+![](Images/1.jpg)
