@@ -3,7 +3,7 @@
 
 ****针对只复刻模块的朋友****
 
-1、需要打印的PCB
+## 1、需要打印的PCB
 
 源立创工程中的   
 
@@ -13,3 +13,7 @@
 以及本项目中的 **BaseConnectorForDynamic**  为Type-c转换小板  如图：
 
 ![](Images/1.jpg)
+
+## 2、更换打印模型  底壳更换即可
+
+![](Images/2.png)![](Images/3.png)
