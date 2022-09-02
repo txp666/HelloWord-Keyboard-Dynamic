@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\PS\Desktop\BaseConnector\BaseConnector.PcbDoc
+DRC Rules Export File for PCB: D:\Prj\HelloWord-Keyboard-Dynamic\BaseConnectorForDynamic\BaseConnector.PcbDoc
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=4.00

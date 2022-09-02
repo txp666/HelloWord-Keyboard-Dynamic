@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: BaseConnector.PcbDoc   2022/8/29  21:34:09
+NCDrill File Report For: BaseConnector.PcbDoc   2022/9/2  18:47:48
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top1 to Bottom2
@@ -11,7 +11,8 @@ Tool       Hole Size               Hole Tolerance               Hole Type       
 T1      10mil (0.254mm)                                           Round             2         PTH        0.04inch (1.01mm)
 T2      24mil (0.6mm)                                             Slot              4         PTH        1.47inch (37.22mm)
 T3      26mil (0.65mm)                                            Round             2         PTH        0.23inch (5.78mm)
+T4      83mil (2.1mm)                                             Round             1         PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              8
+Totals                                                                              9
 
 Total Processing Time (hh:mm:ss) : 00:00:00
