@@ -3,14 +3,14 @@
 
 ****针对只复刻模块的朋友****
 
-## 1、需要打印的PCB   1.2mm厚
+## 1、需要打印的PCB   
 
 源立创工程中的   
 
 | 05 拓展板-Ctrl | 09 拓展板-OLED | 10 拓展板-Encoder |
 | -------------- | -------------- | ----------------- |
 
-以及本项目中的 **BaseConnectorForDynamic**  为Type-c转换小板  如图：
+以及本项目中的 **BaseConnectorForDynamic**   （PCB1.2mm厚 ）为Type-c转换小板  如图：
 
 ![](Images/1.jpg)
 
